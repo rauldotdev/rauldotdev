@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Raúl Simarro 👋
 
 ### 🚀 Sobre mí
 Soy un apasionado del desarrollo de software con una formación técnica integral. Mi trayectoria académica me ha permitido obtener una visión 360º de la tecnología, desde la lógica de sistemas hasta la experiencia de usuario en la web.
@@ -10,12 +10,12 @@ Soy un apasionado del desarrollo de software con una formación técnica integra
 ---
 
 ### 🎓 Formación Académica
-| Título | Centro | Estado |
-| :--- | :--- | :--- |
-| **Grado Superior en DAW** | [Nombre del Centro] | Finalizado |
-| **Grado Superior en DAM** | [Nombre del Centro] | Finalizado |
-| **Bachillerato Tecnológico** | [Nombre del Centro] | Finalizado |
-| **Educación Secundaria Obligatoria** | [Nombre del Centro] | Finalizado |
+| Título | Estado |
+| :--- | :--- |
+| **Grado Superior en DAW** | Finalizado |
+| **Grado Superior en DAM** | Finalizado |
+| **Bachillerato Tecnológico** | Finalizado |
+| **Educación Secundaria Obligatoria** | Finalizado |
 
 ---
 
