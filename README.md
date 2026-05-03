@@ -35,5 +35,5 @@ Soy un apasionado del desarrollo de software con una sólida formación técnica
 ---
 
 ### 📬 Conectemos
-- 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/raul-s-2b49b92a9/)
-- 📧 **Email:** [tu-correo@ejemplo.com](raulsimarrodev@gmail.com)
+- 💼 **LinkedIn:** [[linkedin.com/in/tu-perfil](https://www.linkedin.com/in/raul-s-2b49b92a9/)]
+- 📧 **Email:** [[tu-correo@ejemplo.com](https://www.linkedin.com/in/raul-s-2b49b92a9/)]
