@@ -10,7 +10,7 @@ Soy un apasionado del desarrollo de software con una sólida formación técnica
 ---
 
 ### 🎓 Formación Académica
-| Título | Centro | Estado |
+| Título | Estado |
 | :--- | :--- |
 | **Grado Superior en DAW** | Finalizado |
 | **Grado Superior en DAM** | Finalizado |
