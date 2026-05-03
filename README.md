@@ -25,12 +25,12 @@ Soy un apasionado del desarrollo de software con una sólida formación técnica
 ---
 
 ### 📊 Lenguajes más utilizados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldotdev&layout=compact&theme=vision-friendly-dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauldotdev&layout=compact&theme=vision-friendly-dark&hide_progress=false" alt="Top Langs" />
 
 ---
 
 ### 📈 Actividad en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rauldotdev&show_icons=true&theme=tokyonight&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=rauldotdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 
 ---
 
