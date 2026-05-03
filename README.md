@@ -13,7 +13,7 @@ de bases de datos.
 
 ---
 ### Formación Académica
-| Título | Institución | Estado |
+| Título | Estado |
 | :--- | :--- | :--- |
 | **Grado Superior en DAW** | Finalizado |
 | **Grado Superior en DAM** | Finalizado |
