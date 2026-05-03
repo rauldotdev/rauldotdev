@@ -1,40 +1,39 @@
-# ¡Hola! Soy Raúl Simarro 👋
+# ¡Hola! Soy Raúl 👋
 
 ### 🚀 Sobre mí
-Soy un apasionado del desarrollo de software con una formación técnica integral. Mi trayectoria académica me ha permitido obtener una visión 360º de la tecnología, desde la lógica de sistemas hasta la experiencia de usuario en la web.
+Soy un apasionado del desarrollo de software con una sólida formación técnica en el ecosistema web y multiplataforma. Mi trayectoria académica (ESO, Bachillerato, DAM y DAW) me ha permitido dominar tanto la lógica de servidor como la arquitectura de aplicaciones modernas.
 
-- 🎓 **Formación:** ESO → Bachillerato → **DAM** (Desarrollo de Aplicaciones Multiplataforma) + **DAW** (Desarrollo de Aplicaciones Web).
-- 💡 **Pasión:** Me encanta enfrentarme a retos lógicos y aprender constantemente nuevas tecnologías para mejorar la eficiencia del código.
-- 🔭 **Objetivo:** Seguir creciendo como desarrollador y aportar valor en proyectos innovadores y escalables.
+- 🎓 **Formación:** Doble titulación en **DAM** (Multiplataforma) y **DAW** (Web).
+- 💡 **Pasión:** Me encanta resolver problemas complejos, optimizar procesos con Docker y escribir código limpio y tipado.
+- 🔭 **Enfoque actual:** Especializándome en arquitecturas escalables con Node.js y Java.
 
 ---
 
 ### 🎓 Formación Académica
-| Título | Estado |
+| Título | Centro | Estado |
 | :--- | :--- |
 | **Grado Superior en DAW** | Finalizado |
 | **Grado Superior en DAM** | Finalizado |
-| **Bachillerato Tecnológico** | Finalizado |
-| **Educación Secundaria Obligatoria** | Finalizado |
+| **Bachillerato** | Finalizado |
+| **ESO** | Finalizado |
 
 ---
 
-### 📊 Estadísticas de Lenguajes (Más utilizados)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=vision-friendly-dark)
+### 🛠️ Stack Tecnológico
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,js,ts,docker,git)
+
+---
+
+### 📊 Lenguajes más utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauldotdev&layout=compact&theme=vision-friendly-dark)
 
 ---
 
 ### 📈 Actividad en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-### 📈 Actividad en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rauldotdev&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
 ### 📬 Conectemos
 - 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
 - 📧 **Email:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
-- 🌐 **Portfolio:** [tu-web-personal.com](https://tu-web-personal.com)
