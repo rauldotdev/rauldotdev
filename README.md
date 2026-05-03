@@ -5,7 +5,7 @@ Soy un apasionado del desarrollo de software con una sólida formación técnica
 
 - 🎓 **Formación:** Doble titulación en **DAM** (Multiplataforma) y **DAW** (Web).
 - 💡 **Pasión:** Me encanta resolver problemas complejos, optimizar procesos con Docker y escribir código limpio y tipado.
-- 🔭 **Enfoque actual:** Especializándome en arquitecturas escalables con Node.js y Java.
+- 🔭 **Enfoque actual:** Centrándome en el uso de Inteligencia Artificial (IA) y automatizaciones.
 
 ---
 
@@ -35,5 +35,5 @@ Soy un apasionado del desarrollo de software con una sólida formación técnica
 ---
 
 ### 📬 Conectemos
-- 💼 **LinkedIn:** [[linkedin.com/in/raul](https://www.linkedin.com/in/raul-s-2b49b92a9/)]
-- 📧 **Email:** [[raulsimarrodev@gmail.com](raulsimarrodev@gmail.com)]
+- 💼 **LinkedIn:** [linkedin.com/in/raul](https://www.linkedin.com/in/raul-s-2b49b92a9/)
+- 📧 **Email:** [raulsimarrodev@gmail.com](mailto:raulsimarrodev@gmail.com)
