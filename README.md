@@ -19,13 +19,13 @@ Soy un apasionado del desarrollo de software con una formación técnica integra
 
 ---
 
-### 🛠️ Stack Tecnológico
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,js,ts,docker,git)
+### 📊 Estadísticas de Lenguajes (Más utilizados)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=vision-friendly-dark)
 
 ---
 
-### 📊 Estadísticas de Lenguajes (Más utilizados)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=vision-friendly-dark)
+### 📈 Actividad en GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
