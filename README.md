@@ -20,7 +20,7 @@ Soy un apasionado del desarrollo de software con una formación técnica integra
 ---
 
 ### 🛠️ Stack Tecnológico
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,spring,mysql,mongodb,docker,git,aws)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,js,ts,docker,git)
 
 ---
 
